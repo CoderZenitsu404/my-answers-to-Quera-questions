@@ -3,7 +3,7 @@
 
 ---
 
-![Quera](https://img.shields.io/badge/Platform-Quera-%2300a8e8) ![Languages](https://img.shields.io/github/languages/top/coderzenitsu404/my-answers-to-Quera-questions) ![License](https://img.shields.io/badge/License-GNU3.0-darkgreen)  
+![Quera](https://img.shields.io/badge/Platform-Quera-%2300a8e8) ![Languages](https://img.shields.io/github/languages/top/coderzenitsu404/my-answers-to-Quera-questions) ![License](https://img.shields.io/badge/License-GPL3.0-darkgreen)  
 
 Welcome to my repository of solutions for **Quera** problems! This is where logic meets creativity, and persistence conquers challenges. Whether you're here to learn, contribute, or simply explore, you’re in the right place. 🌟  
 
